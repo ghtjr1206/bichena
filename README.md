@@ -67,9 +67,9 @@ https://github.com/user-attachments/assets/e7e7937a-cc70-40a1-82e8-b41c94d7724b
 - https://developers.portone.io/docs/ko/pg/payment-gateway/inicis?v=v1 (참고)
 <br>
 
-https://github.com/ghtjr1206/devHo/assets/73920922/811f9436-46f4-4bf2-9c06-9aa04c936ff0
+https://github.com/user-attachments/assets/d9e2d520-21b0-484c-8276-a95f399a863e
 
-![결제완료](https://github.com/ghtjr1206/devHo/assets/73920922/6632e85a-3aa0-416a-8b0f-8472f4d66565)
+![결제완료](https://github.com/user-attachments/assets/b45e629b-ee78-43fa-9694-38256dabf65d)
 
 <br><br><br><br>
 ### :page_with_curl: 주문 내역 조회, 결제 취소
@@ -77,7 +77,7 @@ https://github.com/ghtjr1206/devHo/assets/73920922/811f9436-46f4-4bf2-9c06-9aa04
 - 고객이 주문한 주문 내역은 마이페이지에서 확인할 수 있고, 배송상태가 '상품준비중'인 상태에 한하여 주문취소가 가능합니다.
 <br>
 
-https://github.com/ghtjr1206/devHo/assets/73920922/483ac762-9992-42ac-a2f1-d4502fbc3b06
+https://github.com/user-attachments/assets/8240b26d-e2b1-46cf-bea0-dd7c18c68d45
 
 <br><br><br><br>
 ### :page_with_curl: 회원 등급, 할인 적용
@@ -89,19 +89,18 @@ https://github.com/ghtjr1206/devHo/assets/73920922/483ac762-9992-42ac-a2f1-d4502
 - 다이아 : 누적금액 200만원 달성 시 승급
 <br>
 
-![할인](https://github.com/ghtjr1206/devHo/assets/73920922/ccddc58b-0de8-47c0-8076-6eb674795a50)
+![할인](https://github.com/user-attachments/assets/10a4f4ef-8765-4b88-a647-1b71120f8ade)
 
 <br><br><br><br>
 ### :cookie: 관리자 : 주문 내역
 
 - 주문의 상세 정보를 확인할 수 있습니다.
 - 주문의 주문상태를 '취소'를 제외한 나머지 상태로 변경할 수 있습니다.
-- 주문을 취소할 수 있도록 구현해놓았고
 <br>
 
-https://github.com/ghtjr1206/devHo/assets/73920922/fdd79f10-7233-4c83-9fdd-6f7b85be5834
+https://github.com/user-attachments/assets/155f6fea-5d90-457c-a3d9-7fafe41d8894
 
-https://github.com/ghtjr1206/devHo/assets/73920922/9ecee748-35a7-4a4c-adc0-effa28ffab14
+https://github.com/user-attachments/assets/266ab8b5-7770-4978-b32e-77ce02692ffa
 
 <br><br><br><br>
 상품 이미지 출처 : 담화컴퍼니 주식회사
