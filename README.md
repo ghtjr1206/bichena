@@ -40,7 +40,7 @@
 <br><br><br>
 
 ## :wrench: 사용 기술
-![개발환경](https://github.com/ghtjr1206/devHo/assets/73920922/054d8b57-9730-44c1-bc17-ba14dbf90a78)
+![개발환경](https://github.com/user-attachments/assets/72813eb3-3d25-46b0-93e8-1dc7b9a38116)
 <br><br><br>
 ## :movie_camera: 프로젝트 결과
 <br>
@@ -48,7 +48,7 @@
 
 ### :cocktail: 메인 화면
 
-https://github.com/ghtjr1206/devHo/assets/73920922/a6cedc25-5053-4048-8e2c-9363d14e3896
+https://github.com/user-attachments/assets/e3f377b4-f32f-4410-80dc-f7c1cef87ec0
 
 <br><br><br><br>
 ### :raising_hand: 회원 가입
@@ -57,9 +57,9 @@ https://github.com/ghtjr1206/devHo/assets/73920922/a6cedc25-5053-4048-8e2c-9363d
 - javascript의 함수를 사용하여 유효성 검사를 체크하고 ajax를 통해 아이디, 닉네임, 이메일의 중복검사를 진행하였습니다.
 <br>
 
-![본인인증](https://github.com/ghtjr1206/devHo/assets/73920922/f0d1a3b6-699d-450c-b392-36d0e1a65127)
+![본인인증](https://github.com/user-attachments/assets/922df960-f930-4a38-8b30-0d2ddc6c5c55)
 
-https://github.com/ghtjr1206/devHo/assets/73920922/2c69d25b-bece-485b-a820-58ef2027f8af
+https://github.com/user-attachments/assets/e7e7937a-cc70-40a1-82e8-b41c94d7724b
 <br><br><br><br>
 ### :money_with_wings: 주문
 
